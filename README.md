@@ -1,7 +1,3 @@
-# jazzcash-merchant-onboarding-analysis
-Mock dashboard project based on my real internship analysis for JazzCash. Due to data confidentiality, this repository contains a mock version with dummy data and visuals created in Excel and Power BI.
-
-
 # JazzCash Merchant Onboarding Dashboard (Mock Project)
 
 📊 This repository showcases a **mock project** I created using **Excel** and **Power BI** — inspired by a real dashboard I built during my internship with **JazzCash**.
